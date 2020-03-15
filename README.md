@@ -1,5 +1,5 @@
 # Kubernetes Cassandra
- Deploy Cassandra in Kubernetes
+ Deploy Apache Cassandra in Kubernetes
 
 ## Install
 
